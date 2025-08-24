@@ -44,3 +44,7 @@ Install the dependencies using pip:
 
 
 ## Analysis Steps 🚀
+
+- python script automation of Data ingestion and cleaning
+- Data cleaning and manipulation using panda library
+- Perform exploratory data analysis (EDA) to identify insights on behavior patterns , outliers and trends
