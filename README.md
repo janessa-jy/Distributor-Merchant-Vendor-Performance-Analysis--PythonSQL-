@@ -7,28 +7,29 @@ Exploratory Data Analysis (EDA) project on Distributor Merchant Vendor
 
 ## Analysis Steps 🚀
 
- <br /> 
-## Installation ⚙️
 
+## Installation ⚙
 
-
- <br /> 
+ <br />
+ 
  To run this analysis, you'll need the following:
 <br /> 
 
 Python 3.1+
-
 <br /> 
 Jupyter Notebook or JupyterLab
  <br /> 
+- sqlite3
+ 
 `Python libraries:`
-pandas
-numpy
-matplotlib
-seaborn
-plotly
-
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- plotly
+  
  <br /> 
 Install the dependencies using pip:
  <br /> 
+ 
 `pip install pandas numpy matplotlib seaborn plotly`
