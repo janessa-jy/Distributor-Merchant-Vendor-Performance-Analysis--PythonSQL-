@@ -5,8 +5,16 @@ Exploratory Data Analysis (EDA) project on Distributor Merchant Vendor
 
  This project analyse distributed vendor performance based on sales and purchase data. It involves ingesting of data , cleaning, exploratory data analysis (EDA), SQL analysis and automation scripting to investigate attributes of sales 
 
-## Analysis Steps 🚀
+## Dataset 📂 
+- begin_inventory.csv
+- end_inventory.csv
+- purchase_prices.csv
+- purchases.csv
+- sales.csv
+- vendor_invoice
 
+<br />
+ 
 
 ## Installation ⚙
 
@@ -33,3 +41,6 @@ Install the dependencies using pip:
  <br /> 
  
 `pip install pandas numpy matplotlib seaborn plotly`
+
+
+## Analysis Steps 🚀
